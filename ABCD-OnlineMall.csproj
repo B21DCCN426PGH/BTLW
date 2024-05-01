@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>ABCD_OnlineMall</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.27" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.27" />
+    <PackageReference Include="Microsoft.AspNetCore.Session" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.27">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.27" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.27" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.27">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="6.0.27" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+    <PackageReference Include="Stripe.net" Version="39.39.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\client\img\" />
+    <Folder Include="wwwroot\client\map\css\" />
+    <Folder Include="wwwroot\client\map\img\" />
+    <Folder Include="wwwroot\client\map\font\" />
+    <Folder Include="wwwroot\client\map\js\" />
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
+</Project>

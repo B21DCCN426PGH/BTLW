@@ -1,0 +1,201 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ABCD_OnlineMall
+build_property.RootNamespace = ABCD_OnlineMall
+build_property.ProjectDir = D:\test\ABCD-OnlineMall\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\test\ABCD-OnlineMall
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/test/ABCD-OnlineMall/Views/Admin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Admin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Admin/logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cbG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Brands/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Brands/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Brands/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Brands/DetailsClient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzXERldGFpbHNDbGllbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Brands/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Brands/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Feedbacks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZGJhY2tzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Feedbacks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZGJhY2tzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Feedbacks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZGJhY2tzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Feedbacks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZGJhY2tzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Feedbacks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZGJhY2tzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Plots/CreateStore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxvdHNcQ3JlYXRlU3RvcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Plots/DeleteStore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxvdHNcRGVsZXRlU3RvcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Plots/EditStore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxvdHNcRWRpdFN0b3JlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Plots/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxvdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Plots/IndexAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxvdHNcSW5kZXhBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Plots/StoreDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxvdHNcU3RvcmVEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Plots/StoreDetailsClient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxvdHNcU3RvcmVEZXRhaWxzQ2xpZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Products/DetailsClient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlsc0NsaWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Shared/_AdminIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Shared/_Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Shared/_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Stores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Stores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Stores/IndexClothing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVzXEluZGV4Q2xvdGhpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Stores/IndexFood.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVzXEluZGV4Rm9vZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/Stores/IndexOther.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVzXEluZGV4T3RoZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/test/ABCD-OnlineMall/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
