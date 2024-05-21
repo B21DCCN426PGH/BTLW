@@ -1,6 +1,6 @@
-﻿CREATE DATABASE [OnlineMall]
+﻿CREATE DATABASE [mallDB]
 GO
-USE [OnlineMall]
+USE [mallDB]
 GO
 SET ANSI_NULLS ON
 GO
